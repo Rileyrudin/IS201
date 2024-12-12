@@ -1,10 +1,15 @@
 body {
     font-family: 'Verdana', sans-serif;
-    background-color: #fafadf;
-    color: #ffffff;
+    background-color: #fdfdfd;
+    color: white; /* Ensures text color is white */
     margin: 0;
     padding: 0;
 }
+
+body {
+    color: white !important;
+}
+
 
 /* Header */
 header {
